@@ -1,0 +1,15 @@
+C:\Users\student\git\Practice\0830 Console\bin\Debug\net6.0\0830 Console.exe
+C:\Users\student\git\Practice\0830 Console\bin\Debug\net6.0\0830 Console.deps.json
+C:\Users\student\git\Practice\0830 Console\bin\Debug\net6.0\0830 Console.runtimeconfig.json
+C:\Users\student\git\Practice\0830 Console\bin\Debug\net6.0\0830 Console.dll
+C:\Users\student\git\Practice\0830 Console\bin\Debug\net6.0\0830 Console.pdb
+C:\Users\student\git\Practice\0830 Console\obj\Debug\net6.0\0830 Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\git\Practice\0830 Console\obj\Debug\net6.0\0830 Console.AssemblyInfoInputs.cache
+C:\Users\student\git\Practice\0830 Console\obj\Debug\net6.0\0830 Console.AssemblyInfo.cs
+C:\Users\student\git\Practice\0830 Console\obj\Debug\net6.0\0830 Console.csproj.CoreCompileInputs.cache
+C:\Users\student\git\Practice\0830 Console\obj\Debug\net6.0\0830 Console.sourcelink.json
+C:\Users\student\git\Practice\0830 Console\obj\Debug\net6.0\0830 Console.dll
+C:\Users\student\git\Practice\0830 Console\obj\Debug\net6.0\refint\0830 Console.dll
+C:\Users\student\git\Practice\0830 Console\obj\Debug\net6.0\0830 Console.pdb
+C:\Users\student\git\Practice\0830 Console\obj\Debug\net6.0\0830 Console.genruntimeconfig.cache
+C:\Users\student\git\Practice\0830 Console\obj\Debug\net6.0\ref\0830 Console.dll
